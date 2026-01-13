@@ -27,7 +27,7 @@ I specialize in cloud-native backend architectures, microservices, and event-dri
 **Cloud & Infrastructure**
 - AWS, Kubernetes, Docker
 - Terraform, CI/CD
-- Serverless (AWS Lambda)
+- Serverless (AWS Lambda, AWS Step Functions)
 
 **Databases & Messaging**
 - PostgreSQL, MySQL, MongoDB, DynamoDB
