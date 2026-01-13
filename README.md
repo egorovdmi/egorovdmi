@@ -20,7 +20,7 @@ I specialize in cloud-native backend architectures, microservices, and event-dri
 ## 🛠 Core Technologies
 
 **Backend & Architecture**
-- Go, Python, Node.js, TypeScript
+- Go, Node.js, TypeScript, Python
 - Microservices, Event-Driven Architecture, Distributed Systems
 - REST APIs, Highload systems
 
@@ -31,7 +31,7 @@ I specialize in cloud-native backend architectures, microservices, and event-dri
 
 **Databases & Messaging**
 - PostgreSQL, MySQL, MongoDB, DynamoDB
-- Kafka, RabbitMQ, EventBridge
+- RabbitMQ, EventBridge, SNS, SQS
 - Redis
 
 **Observability**
