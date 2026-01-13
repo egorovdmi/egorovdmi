@@ -2,7 +2,7 @@
 
 Senior Backend Software Engineer with 16+ years of experience building scalable, high-load distributed systems for international products.
 
-I specialize in cloud-native backend architectures, microservices, and event-driven systems. Worked across the full software development lifecycle — from system design and implementation to production support, observability, and mentoring engineers.
+I specialize in cloud-native backend architectures, microservices, and event-driven systems. Worked across the full software development lifecycle, from system design and implementation to production support, observability, and mentoring engineers.
 
 ---
 
@@ -85,7 +85,7 @@ I specialize in cloud-native backend architectures, microservices, and event-dri
 
 ## 🎓 Education
 
-**Master’s Degree — Software Engineering**  
+**Master’s Degree in Software Engineering**  
 University of Instrument Engineering and Computer Science
 
 ---
