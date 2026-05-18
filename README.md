@@ -1,8 +1,8 @@
 # Dmitry Egorov
 
-Senior Backend Software Engineer with 16+ years of experience building scalable, high-load distributed systems for international products.
+Senior Backend Engineer with 15+ years of software engineering experience and strong expertise in Go-based distributed systems. Experienced in building scalable cloud-native architectures (AWS, Kubernetes) and AI-driven data processing pipelines, including speech-to-text, translation, and text-to-speech systems.
 
-I specialize in cloud-native backend architectures, microservices, and event-driven systems. Worked across the full software development lifecycle, from system design and implementation to production support, observability, and mentoring engineers.
+Focused on high-performance backend systems, microservice architectures, and production-grade cloud infrastructure serving millions of users. Strong advocate of engineering best practices including observability, CI/CD, and system reliability.
 
 ---
 
@@ -20,7 +20,7 @@ I specialize in cloud-native backend architectures, microservices, and event-dri
 ## 🛠 Core Technologies
 
 **Backend & Architecture**
-- Go, Node.js, TypeScript, Python
+- Go, Python, TypeScript, Node.js
 - Microservices, Event-Driven Architecture, Distributed Systems
 - REST APIs, Highload systems
 
@@ -43,8 +43,9 @@ I specialize in cloud-native backend architectures, microservices, and event-dri
 ## 💼 Experience
 
 ### OneFootball — Senior Backend Engineer  
-*Aug 2022 – Present*
+*Aug 2022 – Feb 2026*
 
+- Designed and built end-to-end an AI-powered multilingual voice generation pipeline for automated video narration, including speech-to-text transcription, translation, and text-to-speech synthesis, deployed on Kubernetes and AWS.
 - Built personalized video backend and indexing systems to increase user engagement
 - Migrated legacy video delivery to serverless architecture (AWS Lambda), improving scalability and reducing costs
 - Led video storage migration to S3 with computer vision–based deduplication
@@ -86,7 +87,7 @@ I specialize in cloud-native backend architectures, microservices, and event-dri
 ## 🎓 Education
 
 **Master’s Degree in Software Engineering**  
-University of Instrument Engineering and Computer Science
+Moscow State University of Instrument Engineering and Computer Science
 
 ---
 
