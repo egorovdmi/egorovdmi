@@ -42,7 +42,7 @@ Focused on high-performance backend systems, microservice architectures, and pro
 
 ## 💼 Experience
 
-### OneFootball — Senior Backend Engineer  
+### OneFootball — Senior Software Engineer  
 *Aug 2022 – Feb 2026*
 
 - Designed and built end-to-end an AI-powered multilingual voice generation pipeline for automated video narration, including speech-to-text transcription, translation, and text-to-speech synthesis, deployed on Kubernetes and AWS.
@@ -58,7 +58,7 @@ Focused on high-performance backend systems, microservice architectures, and pro
 
 ---
 
-### Ottonova — Senior Backend Engineer  
+### Ottonova — Senior Software Engineer  
 *Dec 2018 – Jul 2022*
 
 - Built partner API services for external system integrations
@@ -71,10 +71,10 @@ Focused on high-performance backend systems, microservice architectures, and pro
 
 ---
 
-### Kaspersky Lab — Software Engineer  
+### Kaspersky Lab — Senior Software Engineer  
 *Jun 2013 – Nov 2018*
 
-- Built Kaspersky Safe Kids web platform from scratch
+- Led, designed and built end-to-end Kaspersky Safe Kids web platform from scratch
 - Developed backend, frontend, and internal utilities
 - Refactored legacy systems and improved test coverage
 - Mentored developers and conducted code reviews
