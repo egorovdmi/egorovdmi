@@ -45,16 +45,16 @@ Focused on high-performance backend systems, microservice architectures, and pro
 ### OneFootball — Senior Software Engineer  
 *Aug 2022 – Feb 2026*
 
-- Designed and built end-to-end an AI-powered multilingual voice generation pipeline for automated video narration, including speech-to-text transcription, translation, and text-to-speech synthesis, deployed on Kubernetes and AWS.
+- Designed and built end-to-end AI-powered multilingual voice generation pipeline for automated video narration (speech-to-text, translation, text-to-speech), deployed on Kubernetes and AWS
 - Built personalized video backend and indexing systems to increase user engagement
-- Migrated legacy video delivery to serverless architecture (AWS Lambda), improving scalability and reducing costs
-- Led video storage migration to S3 with computer vision–based deduplication
+- Optimized microservices for >10k RPS throughput, serving millions of users
+- Migrated legacy video delivery to serverless (AWS Lambda), improving scalability and reducing costs
+- Led S3 video storage migration with computer vision–based deduplication
 - Delivered high-scale Premium Video On Demand platform
-- Developed Instagram-style video stories
-- Integrated distributed tracing into Go services and analyzed performance bottlenecks
-- Participated in regular on-call rotations
+- Integrated distributed tracing (OpenTelemetry, Honeycomb) into Go services for performance insights and bottleneck detection
+- Participated in on-call rotations
 
-**Tech:** Go, Python, TypeScript, AWS, Terraform, MySQL, PostgreSQL, MongoDB, DynamoDB
+**Tech:** Go, Python, TypeScript, AWS, Terraform, MySQL, PostgreSQL, MongoDB, DynamoDB, OpenTelemetry, Honeycomb
 
 ---
 
